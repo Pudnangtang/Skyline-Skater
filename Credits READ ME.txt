@@ -1,0 +1,7 @@
+credits
+
+FONT: pixel FJ Verdana 12 from 1001 fonts
+
+SOUND EFFECT: coin effect from https://rpg.hamsterrepublic.com/ohrrpgce/Free_Sound_Effects
+
+Music and art by me
