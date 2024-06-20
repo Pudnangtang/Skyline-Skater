@@ -1,13 +1,16 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
-using TMPro; 
+using TMPro;
 
 public class ButtonGameManager : MonoBehaviour
 {
+    public ScreenFader screenFader;
+    public CutsceneDialogueManager CutscenedialogueManager;
 
     public void StartGame()
     {
-        SceneManager.LoadScene("Level1");
+        SceneManager.LoadScene("Cutscene1");
+        // The rest of the code here won't execute because the scene is changing.
     }
 
     public void GoToMainMenu()
